@@ -1,4 +1,4 @@
 # SANKET
 This is my first Git Repository.
 <br>
-Author - Sanket Shingney 
+Author - Sanket (Student) 
